@@ -4,9 +4,9 @@
 [![vscode-extension-pack](./vscode.png)](.)
 
 > All Installed VS Code Extension Mostly for Frontend Web Development.
-> This Version is 0.0.1
+> This Version is 0.1.0
 
-### What's included in this Extension Pack?
+## What's included in this Extension Pack?
 
 * Tailwind CSS IntelliSense
 * Bracket Pair Colorizer
