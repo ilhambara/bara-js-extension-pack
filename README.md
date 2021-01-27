@@ -1,18 +1,31 @@
 ## bara-js-extension-pack"
 
-![vscode-extension-pack](vscode.png)
 
-> This Version is 0.0.2
+[![vscode-extension-pack](./vscode.png)](.)
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+> All Installed VS Code Extension Mostly for Frontend Web Development.
+> This Version is 0.0.1
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### What's included in this Extension Pack?
+
+* Tailwind CSS IntelliSense
+* Bracket Pair Colorizer
+* ESLint
+* ES7 React/Redux/GraphQL/React-Native snippets
+* Community Material Theme
+* Prettier - Code formatter
+* Auto Rename Tag
+* Discord Presence
+* vscode-styled-components
+* Vetur
+* Material Icon Theme
+* Live Sass Compiler
+* Live Server
+* open in browser
+* IntelliSense for CSS class names in HTML
+
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Visual Studio Code's Marketplace](https://marketplace.visualstudio.com/items?itemName=BaraJS.extension-pack)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
