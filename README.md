@@ -2,7 +2,7 @@
 
 ## bara-js-extension-pack"
 
-[![vscode-extension-pack](vscode.png)
+![vscode-extension-pack](vscode.png)
 
 > This Version is 0.0.1
 
