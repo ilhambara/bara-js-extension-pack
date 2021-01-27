@@ -1,0 +1,39 @@
+
+{
+    "name": "bara-js-extension-pack",
+    "displayName": "Bara JS Extension Pack",
+    "description": "Installed VS Code Extension for Frontend Development",
+    "version": "0.0.1",
+    "publisher": "BaraJS",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "bmewburn.vscode-intelephense-client", 
+        "bradlc.vscode-tailwindcss", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.vscode-eslint", 
+        "dsznajder.es7-react-js-snippets", 
+        "Equinusocio.vsc-community-material-theme", 
+        "esbenp.prettier-vscode", 
+        "felixfbecker.php-intellisense", 
+        "formulahendry.auto-rename-tag", 
+        "GitHub.github-vscode-theme", 
+        "GulajavaMinistudio.mayukaithemevsc", 
+        "icrawl.discord-vscode", 
+        "jpoissonnier.vscode-styled-components", 
+        "octref.vetur", 
+        "onecentlin.laravel-blade", 
+        "PKief.material-icon-theme", 
+        "ritwickdey.live-sass", 
+        "ritwickdey.LiveServer", 
+        "sdras.night-owl", 
+        "smlombardi.slime", 
+        "techer.open-in-browser", 
+        "zhuangtongfa.material-theme", 
+        "Zignd.html-css-class-completion"
+    ]
+}
