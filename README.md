@@ -1,10 +1,8 @@
-# README
-
 ## bara-js-extension-pack"
 
 ![vscode-extension-pack](vscode.png)
 
-> This Version is 0.0.1
+> This Version is 0.0.2
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
