@@ -1,9 +1,8 @@
-
 {
     "name": "extension-pack",
     "displayName": "Bara JS Extension Pack",
     "description": "Installed VS Code Extension for Frontend Development",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "repository": "https://github.com/ilhambara/bara-js-extension-pack.git",
     "author": "Ilham Bara",
     "publisher": "BaraJS",
@@ -13,21 +12,21 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [  
-        "bradlc.vscode-tailwindcss", 
-        "CoenraadS.bracket-pair-colorizer", 
-        "dbaeumer.vscode-eslint", 
-        "dsznajder.es7-react-js-snippets", 
-        "Equinusocio.vsc-community-material-theme", 
-        "esbenp.prettier-vscode",  
-        "formulahendry.auto-rename-tag",  
-        "icrawl.discord-vscode", 
-        "jpoissonnier.vscode-styled-components", 
-        "octref.vetur",  
-        "PKief.material-icon-theme", 
-        "ritwickdey.live-sass", 
-        "ritwickdey.LiveServer",  
-        "techer.open-in-browser",  
+    "extensionPack": [
+        "bradlc.vscode-tailwindcss",
+        "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "Equinusocio.vsc-community-material-theme",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "icrawl.discord-vscode",
+        "jpoissonnier.vscode-styled-components",
+        "octref.vetur",
+        "PKief.material-icon-theme",
+        "ritwickdey.live-sass",
+        "ritwickdey.LiveServer",
+        "techer.open-in-browser",
         "Zignd.html-css-class-completion"
     ],
     "icon": "icon.png"
