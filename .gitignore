@@ -1,5 +1,12 @@
-node_modules
-*.vsix
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# Exclude quickstart file
-vsc-extension-quickstart.md
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
