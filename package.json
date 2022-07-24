@@ -1,11 +1,11 @@
 {
-  "name": "extension-pack",
+  "name": "vscode-extension-pack",
   "displayName": "Bara JS Extension Pack",
-  "description": "Installed VS Code Extension for Frontend Development",
+  "description": "Installed Visual Studio Code Extension for Frontend Development",
   "version": "0.3.1",
   "repository": "https://github.com/ilhambara/bara-js-extension-pack.git",
-  "author": "Ilham Bara",
-  "publisher": "BaraJS",
+  "author": "Ilham Mubarok",
+  "publisher": "ilhambara",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -30,5 +30,6 @@
     "ritwickdey.live-sass",
     "wix.vscode-import-cost"
   ],
-  "icon": "icon.png"
+  "icon": "https://raw.githubusercontent.com/ilhambara/bara-js-extension-pack/master/icon.png",
+  "license": "MIT"
 }

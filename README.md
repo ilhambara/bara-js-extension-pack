@@ -1,8 +1,8 @@
-# Bara-JS-extension-pack
+# BaraJS Extension Pack
 
 [![vscode-extension-pack](https://raw.githubusercontent.com/ilhambara/bara-js-extension-pack/master/vscode.png)](.)
 
-> All Installed VS Code Extension Mostly for **Frontend Web Development** with JavaScript-based ecosystem.
+> All Installed VSCode Extension for **Frontend Web Development** with JavaScript-based ecosystem.
 
 ## What's included in this Extension Pack?
 
@@ -70,7 +70,6 @@
 
   Display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
 
-## References
+## License
 
-- [Visual Studio Code's Marketplace](https://marketplace.visualstudio.com/items?itemName=BaraJS.extension-pack)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[Copyright (c) 2021 Ilham Mubarok](https://github.com/ilhambara/bara-js-extension-pack/blob/master/LICENSE)
